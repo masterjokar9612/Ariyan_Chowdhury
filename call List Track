@@ -1,0 +1,6 @@
+apt update
+apt upgrade
+paython call list
+paython-2 
+ls
+cd
